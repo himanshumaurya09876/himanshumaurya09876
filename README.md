@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+👋+I'm+Himanshu+Maurya;Senior+Software+Engineer;Open-Source+Contributor" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,2,10,25,30&height=160&section=header&text=Hi%20👋%20I'm%20Himanshu%20Maurya&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Open-Source%20Contributor&descSize=15&descAlignY=65" alt="Header Banner" />
 </p>
 
 # 💫 About Me:
