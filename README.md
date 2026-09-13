@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Hi+👋+I'm+Himanshu+Maurya;Senior+Software+Engineer;Open-Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=90&lines=Hi+👋+I'm+Himanshu+Maurya;Senior+Software+Engineer;Open-Source+Contributor" alt="Typing Animation" />
 </p>
 
 # 💫 About Me:
 
-### Senior Software Engineer | Open-Source Contributor
+### Himanshu maurya | Senior Software Engineer | Open-Source Contributor
 
 Building high-performance distributed systems, big data platforms, and scalable full-stack applications. Deeply passionate about systems architecture, application security, and open-source software with 72+ merged contributions to Apache projects.
 
@@ -47,3 +47,8 @@ Building high-performance distributed systems, big data platforms, and scalable 
 
 ### 💡 Philosophy
 "Turning bottlenecks into benchmarks."
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshumaurya09876&color=58A6FF&style=flat-square&label=Profile%20Views" alt="visitor count" />
+</p>
